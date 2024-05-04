@@ -1,1 +1,1 @@
-Apenas um treinamento de class do JavaScript
+treinamento de class do JavaScript
